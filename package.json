@@ -1,0 +1,11 @@
+{
+  "name": "node-workshop",
+  "version": "1.0.0",
+  "description": "Basic nodejs workshop - ITESO - 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wizeline Academy",
+  "license": "ISC"
+}
